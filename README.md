@@ -32,6 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/emad2411/3-column-preview-card-component)
+- Live Site:(https://emad2411.github.io/3-column-preview-card-component/)
 
 
 
@@ -55,3 +56,6 @@ This was a good experience to apply what I learned in CSS like Flexbox
 
 - Website - [Emad Jaber ](https://github.com/emad2411)
 - Frontend Mentor - [@emad2411](https://www.frontendmentor.io/profile/emad2411)
+
+
+
